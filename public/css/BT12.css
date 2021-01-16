@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: SansSerif;
+    font-size: 14px;
+    color: #222222;
+    background-color: #f2f2f2;
+}
+

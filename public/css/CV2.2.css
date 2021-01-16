@@ -1,0 +1,35 @@
+h1{
+    color: black;
+    font-size: 15px;
+    font-family: SansSerif;
+    width: 600px;
+}
+
+h3{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    width: 600px;
+}
+
+h2{
+    color: black;
+    font-size: 15px;
+    font-style: italic;
+    width: 600px;
+}
+h4{
+    color: black;
+    font-size: 15px;
+    font-style: inherit;
+    width: 600px;
+}
+h5{
+    float: left;
+    color: black;
+    font-style: italic;
+}
+p{
+    width:600px;
+
+}

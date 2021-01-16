@@ -1,0 +1,16 @@
+.box{
+    width: 500px;
+    height: 400px;
+    background-color: gray;
+}
+.header{
+    position: fixed;
+    top:0;
+    left: 0;
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    z-index: 9;
+}
+section{
+    padding-top:130px;
+}

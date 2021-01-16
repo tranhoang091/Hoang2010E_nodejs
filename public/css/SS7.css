@@ -1,0 +1,15 @@
+.child1{
+    background-color: #2aabd2;
+    height: 100px;
+
+}
+.item.detail{
+    float: left;
+    width: 100%;
+
+}
+.icon:hover{
+    font-size: 10px;
+    transition: all 3ms;
+    color: red;
+}

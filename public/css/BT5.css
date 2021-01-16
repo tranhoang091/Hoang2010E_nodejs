@@ -1,0 +1,55 @@
+/*input[type="text"]{
+    width: 200px;
+    height: 35px;
+    color: orangered;
+    text-align: center;
+}
+input[name="email"]{
+    width: 200px;
+    height: 35px;
+    color: greenyellow;
+    text-align: center;
+}*/
+.d{
+    width: 500px;
+    height: 600px;
+    margin:0px auto;
+    border: 1px red;
+    box-sizing: border-box;
+    background-color: #f6f8f7;
+}
+.b{
+    width: 450px;
+    height: 500px;
+    margin: 0px auto;
+    box-sizing: border-box;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    tab-size: 20px;
+}
+.a{
+    float: left;
+    width: 100%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.ip-text{
+    width: 200px;
+    height: 35px;
+    font-size: 14px;
+    outline: none;
+    border: 1px solid #222222;
+}
+.ip-text:focus{
+    border: 1px solid red;
+}
+p{
+    text-align: center;
+}
